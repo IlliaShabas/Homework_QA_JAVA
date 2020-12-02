@@ -159,4 +159,4 @@ public class HM_basic_knowleadge {
         }
         return res.substring(0, res.length()-1);
     }
-}
+} 
