@@ -1,3 +1,3 @@
 Використовую браузер Сафарі.
 Features знаходяться в src/feature.
-Заранити Test.java QASeleniumHW/src/test/java/Step/Test.java
+Заранити Test.java src/test/java/Step/Test.java
